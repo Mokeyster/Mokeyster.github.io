@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "netlify": "npm run build"
+    "build": "your_build_command_here"
 
   },
   "keywords": [],
