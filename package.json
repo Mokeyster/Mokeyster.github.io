@@ -5,12 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "netlify": "npm run build"
+    "netlify": "npm run build",
     "build": "your_build_command_here"
-
   },
   "keywords": [],
   "author": "",
   "license": "ISC"
 }
-
